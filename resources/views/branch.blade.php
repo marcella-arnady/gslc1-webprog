@@ -1,9 +1,7 @@
 
-@extends('main')
+@extends('navbar')
 
-@section('page_title', 'Branches Around Jakarta')
-
-@section('page_body')
+@section('content')
 
 <p>Visit Us</p>
 	
